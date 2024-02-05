@@ -198,6 +198,8 @@ public class JavaApplication1 {
            System.out.println("Weekend");    
        }
        
+       System.out.println("Hello World!");
+       
        // EXERCÍCIO 32
        int i = 1;
        while (i < 6){
